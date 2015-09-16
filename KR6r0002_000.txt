@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 迦葉結經
+#+DATE: 2015-08-30 21:54:58.357593
+#+PROPERTY: JUAN 0
